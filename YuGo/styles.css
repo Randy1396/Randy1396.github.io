@@ -1,0 +1,25 @@
+#header{
+    background-color: #ff3838;
+    height: 200px;
+}
+
+#intro-line1{
+font-size: 45px;
+
+margin-top: 40px;
+margin-left: 400px;
+}
+
+#intro-line2{
+    font-weight: 600;
+    margin-top:10px;
+    margin-left: 310px;
+
+}
+
+#newUser{
+    margin-left: 400px;
+}
+.btn-danger{
+    margin-top: 100px;
+}
