@@ -1,6 +1,18 @@
 #header{
     background-color: #ff3838;
     height: 200px;
+    
+}
+
+#logo{
+margin-left: 870px;
+padding-top: 100px;
+
+}
+
+#intro{
+    margin-left: 350px;
+    font-family: 'Raleway', sans-serif;
 }
 
 #intro-line1{
@@ -8,18 +20,33 @@ font-size: 45px;
 
 margin-top: 40px;
 margin-left: 400px;
+
+letter-spacing: 1px;
+text-shadow: 0px 0px 10px
 }
 
 #intro-line2{
     font-weight: 600;
     margin-top:10px;
     margin-left: 310px;
+    margin-bottom: 20px;
 
 }
 
-#newUser{
+
+
+
+.register{
     margin-left: 400px;
 }
-.btn-danger{
-    margin-top: 100px;
+
+.login {
+    margin-right:300px;
+}
+
+p{
+   font-size: 20px;
+   font-weight: 200;
+   line-height: 1.8em;
+   color: #443f3f
 }
