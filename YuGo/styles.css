@@ -73,18 +73,18 @@ h2{
         height: 300px;
         
         
-        }
+    }
 
-        #header{
-            background-color: #ff3838;
-            height: 150px;
+     #header{
+        background-color: #ff3838;
+         height: 150px;
           
-        }
+    }
 
 
 
-            img{
+    img{
                 
-                margin-top: 60px ;
-            }
+       margin-top: 60px ;
+    }
 }
